@@ -4,11 +4,11 @@
 The Automated Transaction/Order File Validation System is a Python-based solution that automates the validation process for transaction/order files received from a mart. The system applies predefined rules to ensure data accuracy and compliance with business requirements. By leveraging Python and pandas, the project streamlines the validation process, reduces manual efforts, save time, and improves data quality assurance.
 
 ### Technical skills:
-Python
-pandas
-os (for reading/writing from the specific folder)
-shutil (to copy the file)
-csv (for CSV file handling)
+Python,
+pandas,
+os (for reading/writing from the specific folder),
+shutil (to copy the file),
+csv (for CSV file handling),
 Modularised the code
 ### Workflow Overview:
 File Import: The system receives transaction/order files in various formats (Excel, CSV) from the mart. Read all thefilese from the folder Mart->incomingFiles->YYYYMMDD folder
